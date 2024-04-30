@@ -31,7 +31,7 @@
 
 ### `Replit`
 
-[![Run on Repl.it](https://repl.it/badge/github/ERLANRAHMAT/BETABOTZ-MD2)](https://repl.it/github/ERLANRAHMAT/BETABOTZ-MD2) 
+[![Run on Repl.it](https://repl.it/badge/https://github.com/JarotOffc/Tempek)](https://repl.it/github.com/JarotOffc/Tempek)
 
   
 
